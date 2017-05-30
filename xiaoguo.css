@@ -1,0 +1,46 @@
+﻿#quanbu {
+	text-align: center;
+}
+#logo {
+	border-top-width: thick;
+	color: #000000;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	font-size: xx-large;
+	padding-top: 43px;
+	text-align: center;
+}
+#dingbuxuanze {
+	width: 66%;
+	text-align: center;
+	float: right;
+}
+.xuanzelan {
+	width: 25%;
+	float: left;
+	border-top-style: groove;
+	padding-top: 15px;
+	margin-top: 20px;
+	padding-bottom: 24px;
+}
+#xuanzelan {
+	width: 63%;
+	float: left;
+}
+#zhuyetupian {
+	text-align: center;
+}
+
+#yejiao {
+
+}
+#yejiaowenzi {
+	margin-bottom: 8px;
+	bottom: 21px;
+	margin-top: 39px;
+}
+#yejiaotupian {
+	padding-bottom: 14px;
+}
